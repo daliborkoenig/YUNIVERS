@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/YUNIVERS/static/css/main.05818a4e.chunk.css",
+    "main.js": "/YUNIVERS/static/js/main.33ffebff.chunk.js",
+    "main.js.map": "/YUNIVERS/static/js/main.33ffebff.chunk.js.map",
+    "runtime-main.js": "/YUNIVERS/static/js/runtime-main.61a062ff.js",
+    "runtime-main.js.map": "/YUNIVERS/static/js/runtime-main.61a062ff.js.map",
+    "static/js/2.201426b7.chunk.js": "/YUNIVERS/static/js/2.201426b7.chunk.js",
+    "static/js/2.201426b7.chunk.js.map": "/YUNIVERS/static/js/2.201426b7.chunk.js.map",
+    "index.html": "/YUNIVERS/index.html",
+    "static/css/main.05818a4e.chunk.css.map": "/YUNIVERS/static/css/main.05818a4e.chunk.css.map",
+    "static/js/2.201426b7.chunk.js.LICENSE.txt": "/YUNIVERS/static/js/2.201426b7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61a062ff.js",
+    "static/js/2.201426b7.chunk.js",
+    "static/css/main.05818a4e.chunk.css",
+    "static/js/main.33ffebff.chunk.js"
+  ]
+}
