@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/YUNIVERS/static/css/main.011f6d5d.chunk.css",
+    "main.css": "/YUNIVERS/static/css/main.387bb27a.chunk.css",
     "main.js": "/YUNIVERS/static/js/main.724e2a2b.chunk.js",
     "main.js.map": "/YUNIVERS/static/js/main.724e2a2b.chunk.js.map",
     "runtime-main.js": "/YUNIVERS/static/js/runtime-main.40506522.js",
@@ -8,13 +8,13 @@
     "static/js/2.3e1d2b97.chunk.js": "/YUNIVERS/static/js/2.3e1d2b97.chunk.js",
     "static/js/2.3e1d2b97.chunk.js.map": "/YUNIVERS/static/js/2.3e1d2b97.chunk.js.map",
     "index.html": "/YUNIVERS/index.html",
-    "static/css/main.011f6d5d.chunk.css.map": "/YUNIVERS/static/css/main.011f6d5d.chunk.css.map",
+    "static/css/main.387bb27a.chunk.css.map": "/YUNIVERS/static/css/main.387bb27a.chunk.css.map",
     "static/js/2.3e1d2b97.chunk.js.LICENSE.txt": "/YUNIVERS/static/js/2.3e1d2b97.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.40506522.js",
     "static/js/2.3e1d2b97.chunk.js",
-    "static/css/main.011f6d5d.chunk.css",
+    "static/css/main.387bb27a.chunk.css",
     "static/js/main.724e2a2b.chunk.js"
   ]
 }
